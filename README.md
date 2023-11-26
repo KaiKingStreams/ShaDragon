@@ -1,6 +1,6 @@
 # ShaDragon-Bot
 
-The bot is in a private repositorie and this is just the readme from the bot so you can see what our bot is capable of doing.
+The bot is in a private repositorie and this is just the readme from the bot so you can see what our bot is capable of doing. To start using the bot do /help to learn what the bot has to offer.
 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and being updated by [CorwinDev](https://github.com/CorwinDev)
@@ -17,6 +17,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Automod
 - [x] Custom Commands
 - [x] Music Commands
+- [x] Bot profile 
 - [x] Tickets
 - [x] Utility Commands
 - [x] Suggestions 
