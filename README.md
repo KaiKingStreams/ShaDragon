@@ -1,4 +1,10 @@
 # ShaDragon-Bot
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 The bot is in a private repositorie and this is just the readme from the bot so you can see what our bot is capable of doing. To start using the bot do /help to learn what the bot has to offer.
 
