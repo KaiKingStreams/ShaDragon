@@ -5,6 +5,9 @@ The bot is in a private repositorie and this is just the readme from the bot so 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and being updated by [CorwinDev](https://github.com/CorwinDev)
 
+> [!NOTE]
+> I have made changes to this bot and do not take credit for fully making the bot
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
