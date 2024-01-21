@@ -2,6 +2,10 @@
 
 The bot is in a private repositorie and this is just the readme from the bot so you can see what our bot is capable of doing. To start using the bot do /help to learn what the bot has to offer.
 
+<a href="https://discord.com/channels/@me/1047843117883199539"> <img src="https://discord.c99.nl/widget/theme-1/1047843117883199539.png" alt="contact mee">
+
+![Discord](https://img.shields.io/discord/1052653325021085799)
+
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and being updated by [CorwinDev](https://github.com/CorwinDev)
 
