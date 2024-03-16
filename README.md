@@ -5,8 +5,6 @@ The bot is in a private repositorie and this is just the readme from the bot so 
 <a href="https://discord.com/channels/@me/1047843117883199539"> <img src="https://discord.c99.nl/widget/theme-1/1047843117883199539.png" alt="contact mee">
 
 ![Discord](https://img.shields.io/discord/1052653325021085799)
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/790398)
-
 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and being updated by [CorwinDev](https://github.com/CorwinDev)
